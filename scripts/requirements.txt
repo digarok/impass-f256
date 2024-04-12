@@ -1,0 +1,4 @@
+cffi @ file:///private/tmp/cffi-20231014-5454-1xfyd4s/cffi-1.16.0
+docutils==0.20.1
+pycparser @ file:///private/tmp/pycparser-20231013-5559-1dtd22y/pycparser-2.21
+six==1.16.0

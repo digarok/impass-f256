@@ -1,0 +1,5 @@
+.DS_Store
+*_Output.txt
+env
+env3
+*.pgz

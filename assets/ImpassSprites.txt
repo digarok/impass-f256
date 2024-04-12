@@ -1,0 +1,3 @@
+16,0,16,bubble_spr
+0,16,32,ship_spr
+32,16,16,bullet_spr

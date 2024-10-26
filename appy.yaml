@@ -4,6 +4,7 @@ indent:
 - src/main.s
 - src/f256inc.s
 - src/f256lib.s
+- src/f256sndlib.s
 - src/textlib.s
-formatflags: "mc:8 oc:12 cc:32 ms:1 bs:2"
+formatflags: "mc:16 oc:20 cc:32 ms:1 bs:2"
 
